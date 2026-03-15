@@ -185,10 +185,9 @@ Based on industry data, academic studies, and primary research:
 ---
 
 ## 11. Team Falcon
-
-- *Deepak Dumka*  
+  
 - *Shubham Loshali*  
-- *Pawan Bisht*  
+- *Harshit Joshi*  
 - *Nitin Vishwkarma*
 
 ---
