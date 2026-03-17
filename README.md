@@ -113,7 +113,7 @@ Vaithilingam et al., Expectations, Outcomes, and Challenges of AI Code Assistant
 
 ---
 
-## 6. Primary Research Conducted by Team Falcon
+## 6. Primary Research Conducted by Team 0 or 1
 
 To validate these findings at a student level, we conducted primary research through surveys and informal interviews.
 
