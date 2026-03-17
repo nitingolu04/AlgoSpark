@@ -1,7 +1,7 @@
 # 📄 Problem, Solution & Research
 
 ## 🎯 Project: *AlgoSpark — AI Code Helper Chrome Extension*  
-*Team Falcon*
+*Team 0 or 1*
 
 ---
 
